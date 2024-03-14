@@ -10,7 +10,7 @@ I'm Bhanu Prakash, a passionate software developer with a keen interest in build
 
 💬 Feel free to reach out to me if you have any questions, want to discuss technology, or just want to say hello!
 
-📫 You can reach me via email at [prakash.bhanu1706@gmail.com](mailto: prakash.bhanu1706@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/prabhanukash](https://www.linkedin.com/in/prakash-bhanu/)).
+📫 You can reach me via email [prakash.bhanu1706@gmail.com](mailto:prakash.bhanu1706@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prabhanukash).
 
 😄 Pronouns: He/Him
 
