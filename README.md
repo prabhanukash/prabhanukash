@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**prabhanukash/prabhanukash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bhanu Prakash, a passionate software developer with a keen interest in building robust and scalable applications. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 Currently, I'm working on enhancing my skills in backend development with Java, Node.js, Typescript and exploring machine learning algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm always learning and exploring new technologies to stay up-to-date with the latest trends in the tech world.
+
+👯 I'm open to collaborate on interesting projects, especially those related to web development, data science, and machine learning.
+
+💬 Feel free to reach out to me if you have any questions, want to discuss technology, or just want to say hello!
+
+📫 You can reach me via email at [prakash.bhanu1706@gmail.com](mailto: prakash.bhanu1706@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/prabhanukash](https://www.linkedin.com/in/prakash-bhanu/)).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm an avid reader and love exploring new cuisines in my free time!
+
+Happy coding! 🚀
+
+  
