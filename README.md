@@ -2,7 +2,7 @@
 ---
 I'm a 22-year-old developer based in India, with a keen interest in building robust and scalable applications. 
 
-🔭 Currently, I'm working on enhancing my skills in backend development with Java, Node.js, Typescript and exploring machine learning algorithms.
+🔭 Currently, I'm working on enhancing my skills in `backend development` with `Java`, `Node.js`, `Typescript` and exploring `AI and LLMS`.
 
 🌱 I'm always learning and exploring new technologies to stay up-to-date with the latest trends in the tech world.
 
