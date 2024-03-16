@@ -48,8 +48,12 @@ I'm a 22-year-old developer based in India, with a keen interest in building rob
 
 📊 Stats
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanukash&show_icons=true&locale=en&layout=compact" alt="prabhanukash" /></p>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=prabhanukash&count_private=true&show_icons=true&hide=contribs)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhanukash&show_icons=true&locale=en" alt="prabhanukash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhanukash&" alt="prabhanukash" /></p>
+
 
 📫 Contact
 ---
