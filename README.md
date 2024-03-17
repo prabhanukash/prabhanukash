@@ -34,6 +34,7 @@ I'm a 22-year-old developer based in India, with a keen interest in building rob
  </p>
  
 **Testing**:<p> <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/JUnit-323330?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 
 **Version Control**: <p>  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
