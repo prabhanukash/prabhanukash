@@ -8,6 +8,9 @@ I'm a 22-year-old developer based in India, with a keen interest in building rob
 
 👯 I'm open to collaborate on interesting projects, especially those related to web development, data science, and machine learning.
 
+- Check out my [website](https://bhanu-personal-website-rosy-mu.vercel.app/) to learn more about me.
+- Explore my [blog](https://bprakash.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
+
 📦 Toolbox
 ---
 **Backend Development**: <p>
@@ -58,7 +61,8 @@ I'm a 22-year-old developer based in India, with a keen interest in building rob
 
 📫 Contact
 ---
-💬 Feel free to reach out to me, you can reach me via email [prakash.bhanu1706@gmail.com](mailto:prakash.bhanu1706@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prabhanukash).
+💬 Feel free to reach me via email [prakash.bhanu1706@gmail.com](mailto:prakash.bhanu1706@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prabhanukash).
+
 
 ⚡ Fun fact
 ---
