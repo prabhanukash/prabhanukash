@@ -1,6 +1,6 @@
 ### Hey, I'm Bhanu 👋
 ---
-I'm a 22-year-old developer based in India, with a keen interest in building robust and scalable applications. 
+I'm a 23-year-old developer based in India, with a keen interest in building robust and scalable applications. 
 
 🔭 Currently, I'm working on enhancing my skills in `backend development` with `Java`, `Node.js`, `Typescript` and exploring `AI and LLMS`.
 
